@@ -9,23 +9,29 @@
 
 > A curated collection of powerful, creative, and effective prompts for AI models, organized by category and use case. Make your AI interactions more productive with these carefully crafted "nano banana" sized prompts! 🚀
 
+
 ## Table of Contents
 
 - [Getting Started](#getting-started)
 - [How to Use](#how-to-use)
 - [Prompt Categories](#prompt-categories)
   - [Creative Writing](#creative-writing)
-  - [Code & Development](#code--development)
-  - [Business & Productivity](#business--productivity)
-  - [Education & Learning](#education--learning)
-  - [Data Analysis](#data-analysis)
-  - [Content Creation](#content-creation)
-  - [Problem Solving](#problem-solving)
-  - [Research & Analysis](#research--analysis)
+    - [Photo to Character Figure](#photo-to-character-figure)
+    - [Character Profile Generator](#character-profile-generator)
+    - [Merge Photo](#merge-photo)
+    - [Anime to Live Action](#anime-to-live-action)
+    - [Image Restore](#image-restore)
+    - [3D Wireframe Silhouette](#overlay-a-3d-looking-cyan-wireframe-mesh-inside-a-silhouette)
 - [Contributing](#contributing)
+  - [How to Contribute](#how-to-contribute)
+  - [Contribution Guidelines](#contribution-guidelines)
+  - [Prompt Quality Standards](#prompt-quality-standards)
 - [Guidelines](#guidelines)
+  - [Best Practices for Prompt Engineering](#best-practices-for-prompt-engineering)
+  - [Prompt Structure Template](#prompt-structure-template)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
+
 
 ## Getting Started
 
