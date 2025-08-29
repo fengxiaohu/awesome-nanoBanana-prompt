@@ -2,10 +2,11 @@
 
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/awesome-prompt-nanobanana)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/awesome-prompt-nanobanana)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/awesome-prompt-nanobanana)
-![License](https://img.shields.io/github/license/yourusername/awesome-prompt-nanobanana)
+![GitHub stars](https://img.shields.io/github/stars/fengxiaohu/awesome-nanoBanana-prompt)
+![GitHub forks](https://img.shields.io/github/forks/fengxiaohu/awesome-nanoBanana-prompt)
+![GitHub issues](https://img.shields.io/github/issues/fengxiaohu/awesome-nanoBanana-prompt)
+![License](https://img.shields.io/github/license/fengxiaohu/awesome-nanoBanana-prompt)
+
 
 > A curated collection of powerful, creative, and effective prompts for AI models, organized by category and use case. Make your AI interactions more productive with these carefully crafted "nano banana" sized prompts! 🚀
 
