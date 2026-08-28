@@ -1,3 +1,5 @@
+
+
 # awesome-nanoBanana-prompt
 
 
@@ -65,7 +67,7 @@ Use the nano-banana model to create a 1/7 scale commercialized figure of thechar
 without any text.On the computer screen, display the ZBrush modeling process of the figure.Next to the computer screen, place a BANDAl-style toy packaging box printedwith the original artwork.
 ```
 
-#### 
+#### Character Profile Generator
 ```
 Create a detailed character profile for a [age] year old [occupation] named [name] who lives in [setting]. Include their background, personality traits, motivations, fears, and a unique quirk that makes them memorable. Also describe their appearance and how they speak.
 ```
